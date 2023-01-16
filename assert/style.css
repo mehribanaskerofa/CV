@@ -1,0 +1,55 @@
+header{
+    height: 250px;
+    width: 100%;
+    display: flex;
+    background-color: lightcyan;
+    justify-content: space-around;
+    align-items: center;
+}
+h1{
+    font-size: 40px;
+    
+}
+header p{
+    font-size: 20px;
+
+}
+header img{
+    border-radius: 50%;
+}
+h1,h2{
+    font-family: 'Righteous', cursive;
+}
+h2{
+    color: crimson;
+    font-size: 25px;
+}
+main{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.contacts .educations{
+    height: 200px;
+}
+.educations span{
+    display: block;
+}
+span{
+    margin: 10px;
+}
+
+ul li{
+    margin: 10px;
+
+}
+.left{
+    background-color: aliceblue;
+}
+.right{
+    background-color: azure;
+}
+.edxleft{
+    text-align: right;
+}
